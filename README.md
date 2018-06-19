@@ -25,4 +25,8 @@ Commands:
 	get-adr 0xaddress : [get address - aslr], to find the IDA Address
 
 
-<img src='https://media.giphy.com/media/uBn76OHK83u6tuIiMM/giphy.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+## Video Walkthrough
+
+Here's a walkthrough of implemented user stories:
+
+<img src='https://media.giphy.com/media/uBn76OHK83u6tuIiMM/giphy.gif' title='Test' width='' alt='Video Walkthrough' />
