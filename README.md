@@ -29,4 +29,4 @@ Commands:
 
 Here's a walkthrough of implemented user stories:
 
-<img src='https://media.giphy.com/media/uBn76OHK83u6tuIiMM/giphy.gif' title='Test' width='' alt='Video Walkthrough' />
+<img src='https://media.giphy.com/media/OO2FmCV9okkbBotVqj/giphy.gif' title='Test' width='' alt='Video Walkthrough' />
