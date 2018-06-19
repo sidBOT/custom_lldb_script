@@ -27,6 +27,6 @@ Commands:
 
 ## Video Walkthrough
 
-Here's a walkthrough of implemented user stories:
+Demo Video
 
 <img src='https://media.giphy.com/media/OO2FmCV9okkbBotVqj/giphy.gif' title='Test' width='' alt='Video Walkthrough' />
