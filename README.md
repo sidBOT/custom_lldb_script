@@ -1,11 +1,11 @@
 ## custom_lldb_script
 
-#INSTALLATION
+# INSTALLATION
 
 Make a file .lldbinit in your home directory (.lldbinit is the first thing that lldb reads when it loads) do cd ~ to go to your home directory
 	
-	if you run as root then home dir = /var/root
-	if you run without root home dir = /var/mobile
+	if you run as root, then home dir = /var/root
+	if you run withoutroot, home dir = /var/mobile
 	
 	
 Add the following to the file (.lldbinit) 
@@ -16,6 +16,7 @@ Add the following to the file (.lldbinit)
 	
 Place custom.py in /var/mobile (working directory)
 start lldb
+
 Commands:
 	
 	ASLR : get aslr slide
