@@ -21,8 +21,15 @@ Commands:
 	
 	ASLR : get aslr slide
 	set-bp 0xaddress : set breakpoint (ASLR added)
+	set-bp -f 0xaddress : force set breakpoint
 	write 0xaddress 0xvalue : write to memory, same as => memory write -s 4 0xaddress 0xvalue (address frorm lldb)
+	write -f 0xaddress 0xvalue : write to memory at the IDA offset directly
 	get-adr 0xaddress : [get address - aslr], to find the IDA Address
+	convert -f 0xvalue : convert hex to 32 bit single precision float value
+	convert -h floatValue : convert float value to hexadecimal
+	list-add -a 0xaddress functionName : save address and the name for it in a list for future reference 
+	list-add -s : show all the saved addresses in the list
+	list-add -r 0xaddress : remove the address from the list
 
 
 ## Video Walkthrough
