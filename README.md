@@ -17,6 +17,7 @@ Add the following to the file (.lldbinit)
 Place custom.py in /var/mobile (working directory)
 start lldb
 
+# Usage
 Commands:
 	
 	ASLR : get aslr slide
@@ -30,6 +31,7 @@ Commands:
 	list-add -a 0xaddress functionName : save address and the name for it in a list for future reference 
 	list-add -s : show all the saved addresses in the list
 	list-add -r 0xaddress : remove the address from the list
+	usage : type this in lldb for help
 
 
 ## Video Walkthrough
