@@ -23,3 +23,10 @@ Commands:
 	set-bp 0xaddress : set breakpoint (ASLR added)
 	write 0xaddress 0xvalue : write to memory, same as => memory write -s 4 0xaddress 0xvalue (address frorm lldb)
 	get-adr 0xaddress : [get address - aslr], to find the IDA Address
+
+
+## Video Walkthrough
+
+Demo Video
+
+<img src='https://media.giphy.com/media/OO2FmCV9okkbBotVqj/giphy.gif' title='Test' width='' alt='Video Walkthrough' />
