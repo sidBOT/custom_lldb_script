@@ -2,10 +2,14 @@
 
 # INSTALLATION
 
-Make a file .lldbinit in your home directory (.lldbinit is the first thing that lldb reads when it loads) do cd ~ to go to your home directory
+Make a file ```.lldbinit``` in your home directory (.lldbinit is the first thing that lldb reads when it loads) do ```cd ~``` to go to your home directory
 	
+	FOR IPHONE
 	if you run as root, then home dir = /var/root
 	if you run withoutroot, home dir = /var/mobile
+	
+	FOR MAC
+	```cd ~```
 	
 	
 Add the following to the file (.lldbinit) 
