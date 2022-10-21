@@ -9,7 +9,7 @@ Make a file ```.lldbinit``` in your home directory (.lldbinit is the first thing
 	if you run withoutroot, home dir = /var/mobile
 	
 	FOR MAC
-	```cd ~```
+	cd ~
 	
 	
 Add the following to the file (.lldbinit) 
